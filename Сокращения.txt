@@ -1,0 +1,6 @@
+IETF
+3GPP
+IMS
+SIP
+VOIP
+юря
