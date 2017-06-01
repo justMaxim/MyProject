@@ -8,3 +8,6 @@ UAS
 UAC
 B2BUA
 CSCF
+ясад
+SQL
+DML
