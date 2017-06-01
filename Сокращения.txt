@@ -4,3 +4,7 @@ IMS
 SIP
 VOIP
 юря
+UAS
+UAC
+B2BUA
+CSCF
